@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" src="https://raw.githubusercontent.com/fatemaDiba/fatemaDiba/refs/heads/main/banner.png"  />
+  <img width="100%" src="https://raw.githubusercontent.com/fatemaDiba/fatemaDiba/refs/heads/main/banner.png"  />
 </div>
 
 ###
