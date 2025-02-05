@@ -44,6 +44,18 @@
 
 ###
 
+<h3 align="left">🔍 Currently Learning:</h3>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="30" />
+</div>
+
+###
+
 <h3 align="left">Socials</h3>
 
 ###
